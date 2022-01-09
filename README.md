@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/56811b69cbcece20bbebf.jpg">
+  <img src="https://telegra.ph/file/5af32594e504236410892.jpg">
 </p>
 
 <h4><p align="center"> SKYLA HELPER </p></h4>
