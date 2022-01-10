@@ -9,7 +9,7 @@ from SkyzuRobot.events import register
 from SkyzuRobot import telethn as tbot
 
 
-PHOTO = "https://telegra.ph/file/56811b69cbcece20bbebf.jpg"
+PHOTO = "https://telegra.ph/file/5af32594e504236410892.jpg"
 
 
 @register(pattern=("/alive"))
@@ -23,7 +23,7 @@ async def awake(event):
     TEXT += "**Thanks For Adding Me Here ❤️**"
     BUTTON = [
         [
-            Button.url("ʜᴇʟᴘ​", "https://t.me/SkyzuRobot?start=help"),
+            Button.url("ʜᴇʟᴘ​", "https://t.me/SkylaMusicBot?start=help"),
             Button.url("sᴜᴘᴘᴏʀᴛ​", "https://t.me/skylasupport"),
         ]
     ]
