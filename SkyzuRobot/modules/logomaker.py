@@ -68,7 +68,7 @@ async def logo_gen(event):
             pics.append(i)
         id_ = random.choice(pics)
         bg_ = await id_.download_media()
-        fpath_ = glob.glob("./SkylaMusicBot/resources/fonts/*")
+        fpath_ = glob.glob("./SkyzuRobot/resources/fonts/*")
         font_ = random.choice(fpath_)
     if not bg_:
         pics = []
